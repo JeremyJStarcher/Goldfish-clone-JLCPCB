@@ -1,0 +1,9 @@
+jlc-kicad-tools .
+# --assume-same-lcsc-partnumber
+
+rm -rf build
+mkdir build
+zip build/gerber.zip gerber/*
+
+cp goldfish_bom_jlc.csv build
+cp goldfish_cpl_jlc.csv build 

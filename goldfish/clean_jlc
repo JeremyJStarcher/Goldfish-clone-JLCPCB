@@ -1,0 +1,11 @@
+#!/bin/sh
+
+
+find . -iname "*.csv" -exec rm {} \;
+find . -iname "*.xml" -exec rm {} \;
+
+
+#rm *.xml
+#rm *.csv
+#rm gerbers/*.csv
+
