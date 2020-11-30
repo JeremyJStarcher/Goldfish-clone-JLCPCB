@@ -14,7 +14,7 @@ the board layout needed redesigned entirely.
 * Four layer board with separate ground and power layers.  No additional charge, so why not?
 * Board is wider to meet the minimum width requirements
 * The board is longer to allow top-side labels all the way around
-* Changed the USB connector to one that is more easily soldered by hand and the cost of being slightly thicker.
+* Changed the USB connector to one that is more easily soldered by hand at the cost of making the board slightly thicker.
 * Changed the crystal to match parts available.
 * 0 Ohm resisters added to help USB data signal routing
 * Additional USB Datapins removed.
