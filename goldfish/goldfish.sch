@@ -8,7 +8,7 @@ Title "Goldfish"
 Date "2017-12-20"
 Rev "C"
 Comp ""
-Comment1 ""
+Comment1 "JLCPCB Assembly"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -744,7 +744,7 @@ Wire Wire Line
 	9300 5050 9300 4950
 Connection ~ 9200 5050
 Text Notes 700  7600 0    60   ~ 0
-Released under the Creative Commons Attribution Share-Alike 4.0 License\nhttps://creativecommons.org/licenses/by-sa/4.0/\n\nOriginal Arduino Mini Design by Team Arduino\nArduino Pro Mini Design by Spark Fun Electronics\nPro Micro Design by Spark Fun Electronics\nGoldfish Design by dr_derivative
+Released under the Creative Commons Attribution Share-Alike 4.0 License\nhttps://creativecommons.org/licenses/by-sa/4.0/\n\nOriginal Arduino Mini Design by Team Arduino\nArduino Pro Mini Design by Spark Fun Electronics\nPro Micro Design by Spark Fun Electronics\nGoldfish Design by dr_derivative\n\nJLCPCB assembly version by Jeremy J Starcher
 $Comp
 L power:VBUS #PWR016
 U 1 1 5A78C3BD
