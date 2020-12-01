@@ -19,6 +19,17 @@ the board layout needed redesigned entirely.
 * 0 Ohm resisters added to help USB data signal routing
 * Additional USB Datapins removed.
 
+
+## License Information
+Released under the Creative Commons Attribution Share-Alike 4.0 License.  
+https://creativecommons.org/licenses/by-sa/4.0/  
+
+Original Arduino Mini Design by Team Arduino.  
+Arduino Pro Mini Design by Spark Fun Electronics.  
+Pro Micro Design by Spark Fun Electronics.  
+Goldfish Design by Dr Derivative.  
+JLCPCB assembly version by Jeremy J Starcher
+
 ## Revision History
 
 * Rev A - Initial release.  On order - untested.
