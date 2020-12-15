@@ -4,6 +4,12 @@ This board is a new layout for the original
 [Goldfish](https://github.com/staticintlucas/Goldfish)
 by Lucas Jansen.
 
+# REV A has several design issues that make it very difficult to attach the USB connector.
+
+Do not use!
+
+
+
 ## Why?
 
 This board was designed to be used with JLCPCB's SMD assembly service.  Because JLCPCB has very different requirements,

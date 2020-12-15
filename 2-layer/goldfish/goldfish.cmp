@@ -1,0 +1,203 @@
+Cmp-Mod V01 Created by PcbNew   date = Thu 03 Dec 2020 04:38:23 PM EST
+
+BeginCmp
+TimeStamp = 5FC39D00
+Path = /5A28DBD6
+Reference = J3;
+ValeurCmp = 01x12;
+IdModule  = pins:Pins12;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC2725A
+Path = /5A286A14
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = Crystal:Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC11812
+Path = /5A78E24C
+Reference = D1;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_SMD:D_PowerDI-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC34C94
+Path = /5FF3A33D
+Reference = USB1;
+ValeurCmp = TYPE-C-31-M-12;
+IdModule  = Type-C:HRO-TYPE-C-31-M-12-HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC390C1
+Path = /5FEA0D9B
+Reference = R8;
+ValeurCmp = 0R;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC34DC3
+Path = /5FEA0C48
+Reference = R7;
+ValeurCmp = 0R;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC02EA9
+Path = /5A28DB36
+Reference = J4;
+ValeurCmp = 01x12;
+IdModule  = pins:Pins12;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC87179
+Path = /5A2884D6
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC2732C
+Path = /5A28636A
+Reference = U1;
+ValeurCmp = ATmega32U4;
+IdModule  = Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC85D87
+Path = /5CBBA935
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC11FAE
+Path = /5A285348
+Reference = R5;
+ValeurCmp = 22;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC02EEE
+Path = /5A285250
+Reference = R4;
+ValeurCmp = 22;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC54003
+Path = /5A284FE9
+Reference = R2;
+ValeurCmp = 5k1;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC02EC1
+Path = /5A284FC2
+Reference = R1;
+ValeurCmp = 5k1;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC02EB2
+Path = /5A28DD10
+Reference = J5;
+ValeurCmp = 01x05;
+IdModule  = pins:Pins5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC02E3E
+Path = /5A28A5E2
+Reference = C10;
+ValeurCmp = 0u1;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC02E2F
+Path = /5A288CA8
+Reference = C9;
+ValeurCmp = 1u;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC24AF8
+Path = /5A286929
+Reference = C8;
+ValeurCmp = 22p;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC27227
+Path = /5A286E5D
+Reference = C7;
+ValeurCmp = 22p;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC1FBCB
+Path = /5A296B39
+Reference = C6;
+ValeurCmp = 4u7;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC03E73
+Path = /5A2B2CD9
+Reference = C5;
+ValeurCmp = 0u1;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC02DE4
+Path = /5A296AA7
+Reference = C4;
+ValeurCmp = 0u1;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC86EDE
+Path = /5A296A47
+Reference = C3;
+ValeurCmp = 0u1;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC21B7B
+Path = /5A2969B5
+Reference = C2;
+ValeurCmp = 0u1;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC02DB7
+Path = /5A29692F
+Reference = C1;
+ValeurCmp = 0u1;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+EndListe
