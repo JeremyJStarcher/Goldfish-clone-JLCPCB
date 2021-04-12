@@ -3,4 +3,5 @@
   (lib (name pins)(type KiCad)(uri ${KIPRJMOD}/pins.pretty)(options "")(descr ""))
   (lib (name usb-type-c)(type KiCad)(uri ${KIPRJMOD}/usb-type-c.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/lib/Type-C.pretty)(options "")(descr ""))
+  (lib (name pin-usb)(type KiCad)(uri ${KIPRJMOD}/lib/pin-usb.pretty)(options "")(descr ""))
 )

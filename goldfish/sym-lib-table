@@ -1,5 +1,6 @@
 (sym_lib_table
   (lib (name atmega32u4-ep)(type Legacy)(uri ${KIPRJMOD}/atmega32u4-ep.lib)(options "")(descr ""))
-  (lib (name goldfish-rescue)(type Legacy)(uri ${KIPRJMOD}/goldfish-rescue.lib)(options "")(descr ""))
+  (lib (name goldfish-rescue)(type Legacy)(uri ${KIPRJMOD}/goldfish-rescue.lib)(options "")(descr "")(disabled))
   (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/lib/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name pin-usb)(type Legacy)(uri ${KIPRJMOD}/lib/pin-usb.lib)(options "")(descr ""))
 )
